@@ -2,8 +2,8 @@
  
 ![Cover](cover.png)
 <br><br>
-Emfis was a productivity application wich I developed in 2018-2019. This application is developed in Visual Basic and WinForms. The source code was lost over the years plus it was developed by high schooler, so probably it's better I lost it :D <br>
-With this application you can block sites for a time interval. On this time period of time the chosen sites is not going to loaded regardless of your browser. Note: This project is a ""startup"" for Hungarian students. 
+Emfis was a productivity application wich I developed in 2018-2019. This application is developed in Visual Basic and WinForms. The source code was lost over the years. But as a high schooler my code was not the best quality, so probably it's better for me I lost it :D <br>
+With this application you can block sites for a time interval. On this period of time the chosen sites are not going to loaded regardless of your browser. Note: This project is a ""startup"" for Hungarian students. So everything in the software and the website will be in Hungarian.
 
 # Links
 - [Website](https://sites.google.com/view/emfis/kezd%C5%91lap)
@@ -14,10 +14,10 @@ This project was participated in the "<19 Szabadfogású Számítógép verseny"
 
 # Screenshot
 ![block](block_function.png)
-This is the block function. You can add custom links to your list. After you picked all the sites, from your own list or the pre-added you can set a timer. Push the start button and these sites will be unavailable during the timer. <br><br>
+This is the block function. You can add custom links to your list. After you picked all the sites (from your own list or the pre-added) afther that you want to block you can set up the requermented time period. Push the start button and these sites will be unavailable unitl the timer expires. <br><br>
 
 ![tutorial](tutorial.png)
-I developed a tutorial inside the software. If you never used this software before a pop-up message will offer a walkthrough. This tutorial helped you to add links, set a timer etc.
+I developed a tutorial inside the software. If you never used this software before, a pop-up message will offer you a walkthrough. This tutorial teach the user fot the following: how to add properly custom links , set the timer, pick sites and start the blocker.
 
 
 
